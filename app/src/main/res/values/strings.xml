@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Kotlin Sample</string>
+    <string name="title_activity_explicit_intent_second">ExplicitIntentSecondActivity</string>
+</resources>
